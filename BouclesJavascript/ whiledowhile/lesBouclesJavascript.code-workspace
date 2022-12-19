@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html:css:js/horlogeNoel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesBouclesJavascript"
+	}
+}
